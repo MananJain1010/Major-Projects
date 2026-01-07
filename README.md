@@ -57,6 +57,10 @@ Start the Client
 
 ### One-to-One chat
 
+### online user presence
+
+### image sharing
+
 ### Search Users
 
 ## What I Learned
